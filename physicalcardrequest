@@ -1,9 +1,129 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
   <diagram name="Página-1" id="SenmA_qreRvicjakwxS9">
-    <mxGraphModel>
+    <mxGraphModel dx="2049" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;" edge="1" parent="1" source="P8HGbsvGJZXzxCcg6N8_-5" target="P8HGbsvGJZXzxCcg6N8_-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-2" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Solicita Tarjeta Física&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P8HGbsvGJZXzxCcg6N8_-1">
+          <mxGeometry x="-0.2875" relative="1" as="geometry">
+            <mxPoint x="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="99.32352941176464" y="550.0029411764708" as="sourcePoint" />
+            <mxPoint x="339.5000000000002" y="550.0029411764708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Solicita activación de&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;tarjeta física&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P8HGbsvGJZXzxCcg6N8_-3">
+          <mxGeometry x="-0.1902" y="1" relative="1" as="geometry">
+            <mxPoint x="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Usuario&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-6" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Usuario&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.32352941176487" y="240.0029411764708" as="sourcePoint" />
+            <mxPoint x="764.4999999999995" y="240.0029411764708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-8" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;Realiza petición para tarjeta física&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P8HGbsvGJZXzxCcg6N8_-7">
+          <mxGeometry x="0.2154" relative="1" as="geometry">
+            <mxPoint x="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.32352941176487" y="550.0029411764708" as="sourcePoint" />
+            <mxPoint x="764.4999999999995" y="550.0029411764708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-10" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Realiza petición para activar la tarjeta&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P8HGbsvGJZXzxCcg6N8_-9">
+          <mxGeometry x="0.4031" y="-2" relative="1" as="geometry">
+            <mxPoint x="-88" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;App&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="120" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-12" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;App&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="764.3235294117649" y="280.0029411764708" as="sourcePoint" />
+            <mxPoint x="1259.4999999999995" y="280.0029411764708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-14" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;Solicita Tarjeta Física (usando el endpoint batch)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P8HGbsvGJZXzxCcg6N8_-13">
+          <mxGeometry x="0.0851" y="4" relative="1" as="geometry">
+            <mxPoint x="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-15" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="764.3235294117649" y="550.0029411764708" as="sourcePoint" />
+            <mxPoint x="1259.4999999999995" y="550.0029411764708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-16" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Solicita la activación de la tarjeta física&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P8HGbsvGJZXzxCcg6N8_-15">
+          <mxGeometry x="0.3272" y="1" relative="1" as="geometry">
+            <mxPoint x="-88" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Cards Service&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="170" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-18" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Cards Service&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="810" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="P8HGbsvGJZXzxCcg6N8_-23" target="P8HGbsvGJZXzxCcg6N8_-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-20" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Responde con el reference del batch&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P8HGbsvGJZXzxCcg6N8_-19">
+          <mxGeometry x="-0.1469" y="7" relative="1" as="geometry">
+            <mxPoint x="-43" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-21" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1259.5" y="689" as="sourcePoint" />
+            <mxPoint x="764.0714285714284" y="689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-22" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Responde el reference_card&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;y status de activación&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="P8HGbsvGJZXzxCcg6N8_-21">
+          <mxGeometry x="-0.1929" y="1" relative="1" as="geometry">
+            <mxPoint x="-49" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-23" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CaaS - UnDosTres&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1160" y="40" width="200" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-24" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;CaaS - UnDosTres&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="810" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;No es necesario que el usuario previamente tenga un Customer Id asignado&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="P8HGbsvGJZXzxCcg6N8_-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;La Delivery Info, debe ser la dirección del corporativo. El envió de tarjeta, va por cuenta de PTD&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="880" y="310" width="250" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
